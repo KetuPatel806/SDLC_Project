@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+torch
+transformers
+black
+flake8
+isort
+python-dotenv
+requests 
+tqdm
+langgraph
+langchain
+langchain_groq
+langchain_community
+streamlit
